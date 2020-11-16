@@ -4,9 +4,9 @@ Repositorio para el Trabajo Práctico Nº1 de Organización de Datos.
 
 # Integrantes (Nombre, padrón):
 
-Julián Rodrigo Cropano Miranda, 103960
-Felipe Nahuel Gonzalez, 91387
-Nicolás Sanchez, 98960
+Julián Rodrigo Cropano Miranda, 103960\
+Felipe Nahuel Gonzalez, 91387\
+Nicolás Sanchez, 98960\
 Rogger Aldair Paredes Tavara, 97976
 
 # Enlaces
